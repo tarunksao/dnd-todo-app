@@ -97,7 +97,12 @@
     cursor: pointer;
 }
 
-.remove{
+.removeTodos{
+    display: flex;
+    flex-direction: column;
+    width: 47.5%;
+    padding: 15px;
+    border-radius: 5px;
     background-color: rgb(235, 103, 80);
 }
 
